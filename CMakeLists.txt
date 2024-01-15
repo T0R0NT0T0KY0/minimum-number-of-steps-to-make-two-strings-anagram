@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.27)
+project(minimum_number_of_steps_to_make_two_strings_anagram)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(minimum_number_of_steps_to_make_two_strings_anagram cpp/main.cpp)
